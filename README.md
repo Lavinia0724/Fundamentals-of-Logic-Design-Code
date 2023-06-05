@@ -1,4 +1,4 @@
-## LAVI's Fundamentals of Logic Design Course Code
+## LAVI's Fundamentals of Logic Design Course Codes
 ###### tags: `Course` `Verilog` `LAVI` `2022` 
 
 ## Information
